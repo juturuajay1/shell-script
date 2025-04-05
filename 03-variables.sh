@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=RAHIM
-PERSON2=ROBERT 
+PERSON1=RAHIM   #no space btw before and after equal
+PERSON2 =ROBERT 
 
 echo "$PERSON1: Hi $PERSON2"
 echo "$PERSON2: Hello $PERSON1"
